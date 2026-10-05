@@ -1,0 +1,8 @@
+Use case: illustration-story.
+Original Guveno loose brush ink on opaque pure white, calm witty designed forms and very few strokes. Natural pressure varies from tapered thin stretches to bold swells. Most edges solid; only one or two short dry rough segments, no scratchy filter. Occasional gaps and overshoots, slightly offset black fills; coarse halftone only shading. Black plus ONE small flat #EC1C7E accent. No numbers, words, logos, currency symbols, shadows, gradients, grey wash, scenery, water, ground, border or background plate.
+
+SUBJECT: Exactly TWO Guveno busts behind opposite ends of ONE small arched bridge: owner at left, teammate at right, both cropped by bridge parapet to head and mitten hands. Owner has tall narrow egg head, wave quiff with white gap, unequal EMPTY circular glasses, hooked nose-brow, few shirt stripes; teammate has block head, huge off-centre black bun, pencil, dash eyes, few large shirt dots. Each reaches one mitten toward the centre to hold opposite ends of ONE small flat MAGENTA #EC1C7E joining plank. Bridge deck continuous below, one broad arch, minimal rail posts. Calm small smiles; no full bodies, human fingers, ears, floor, scenery, river, coins or other characters.
+
+Format 960 x 600 landscape. Entire bridge and all heads inside frame, at least 32 pixels pure white on every side unless sleeves explicitly enter from top. Very few strokes; pressure visibly varies. Reference is STYLE/CAST ONLY, never add extra objects or characters.
+STRICT SCOPE: Draw ONLY the explicit SUBJECT. Do not add people, animal mascots or extra props from the style sheet.
+REFERENCE: attached sheet is style only. Choose ONLY the character count explicitly specified.

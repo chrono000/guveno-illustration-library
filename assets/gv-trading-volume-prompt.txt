@@ -1,0 +1,6 @@
+Use case: precise-object-edit.
+Edit the attached original Guveno drawing. Preserve every unmentioned subject, composition, contours, pressure variation, ink gaps, rough edges, halftone and pure white background. No extra props, text, logos, gradients or shadows.
+CHANGE: Keep FOUR bars, the same chart baseline and magenta last bar. Keep a genuine rise-and-dip: first bar low, second tall, third medium. Make the last MAGENTA bar the tallest, about 15% higher than second. Change the overhead curve so it rises over second, dips over third, then climbs to its HIGHEST endpoint at the far right above the last bar. Final curve endpoint higher than ALL earlier curve peaks. Preserve the loose irregular brush style; no arrowhead.
+Keep 600 x 300 composition and existing white margins. Only flat magenta #EC1C7E where specified; all other ink black.
+STRICT SCOPE: Draw ONLY the explicit SUBJECT. Do not add people, animal mascots or extra props from the style sheet.
+REFERENCE: attached sheet is style only. No people or cast characters; only the animal, hand or object specified.

@@ -1,0 +1,7 @@
+Use case: precise-object-edit.
+Edit target: attached original Guveno illustration. Create a separate colour variant.
+CHANGE: Recolour ONLY the long sweeping FRONT ORBIT STROKE flat magenta #EC1C7E: the existing curve curling from lower left past the left paper, across the globe foreground and upward toward the right check badge. Follow the original stroke shape, breaks and pressure variation exactly, do not add a second line. All other smaller outer orbit arcs remain BLACK. Globe contours and continents with BLACK halftone, three papers, their abstract dashes, and three check badges stay unchanged BLACK AND WHITE. No magenta fills on globe, paper or badges.
+INVARIANTS: Keep the exact original subjects, counts, positions, proportions, composition, white margins and pure white background. Preserve original black brush strokes with thin-to-bold pressure variation, isolated rough segments, gaps and halftone texture. One flat magenta #EC1C7E focal accent ONLY as specified. No redraw, added objects, words, logos, gradients, grey wash, shadows or extra colour.
+Format: 960 x 600 landscape.
+STRICT SCOPE: Draw ONLY the explicit SUBJECT. Do not add people, animal mascots or extra props from the style sheet.
+REFERENCE: attached sheet is style only. No people or cast characters; only the animal, hand or object specified.

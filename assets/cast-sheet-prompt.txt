@@ -1,0 +1,141 @@
+Generated and edited with the built-in image generation tool.
+Base reference exports: 1600 x 900. 2x reference exports: 3200 x 1800.
+Selected cast: version 2 with two corrective edit passes. Selected props: version 3.
+
+CAST VERSION 1
+
+A quick, loose black ink brush-pen sketch on pure white, with thick uneven strokes, dry scratchy edges, short overshoots, gaps where shapes don't close, and trailing unfinished contours. Very few strokes and almost no detail. Solid black only for hair and small dark shapes; fills a little misregistered relative to their contours. Coarse halftone dots only on clothing or skin. Designed exaggerated characters, never realistic anatomy. Witty, calm, a bit quirky. Black and white only. No magenta, decorative marks, ground or background. The supplied drawings are STYLE REFERENCES ONLY; no copies of their faces or poses. Create three distinctive original identities.
+
+Create one unlabelled character reference sheet of THREE new characters, NINE figures total.
+LAYOUT: wide landscape 16:9, target 1600 x 900 pixels. TOP ROW has SIX chest-cropped busts: owner front, owner three-quarter, teammate front, teammate three-quarter, friend front, friend three-quarter. Each character's paired views retain exactly the same identity, face shape, hair, proportions and outfit. Six evenly separated small busts in this precise left-to-right order. Busts end around mid-sheet in a short trailing unfinished chest stroke. BOTTOM ROW has THREE much larger leaning poses in owner, teammate, friend order, only head and hands, peeking over the BOTTOM EDGE of the actual image. The canvas itself crops them at its lower edge; do NOT draw a wall, a horizontal baseline, a frame or any extra line to represent that edge. White separation between every figure and between rows. At least 48 px white above and along sides. Only bottom-row leaning figures may run off the bottom edge. No text or labels anywhere.
+OWNER: very tall narrow egg-shaped head, much taller than wide. A solid-black quiff rears up and forward like a breaking wave, with ONE white slash gap through it. No ears. Nose is one long hooked angular stroke running up into a SINGLE brow. Glasses are two EMPTY circles, slightly different sizes, with NO eyes, pupils or dots inside. Mouth is a short dash. Long thin neck. Narrow shirt uses a FEW loose wobbly stripes that stop short. Coarse halftone patch on ONE cheek spills past jaw. In leaning pose, long chin rests on TWO STACKED MITTEN HANDS, hands drawn with two or three lines each.
+TEAMMATE: blocky almost-square head, flat top, no ears. Round solid-black bun almost as large as head, set off-centre, with ONE pencil stuck through it. Eyes are short dashes, sharp short nose-brow line, small curved mouth. Boxy top with large uneven BLACK DOTS, some spilling past the unfinished outline. Leaning pose has head tilted sideways with one mitten hand hooking over the bottom canvas edge.
+FRIEND: tiny face almost lost in a solid-black cloud of curls TWO TO THREE TIMES THE FACE SIZE, with TWO white gaps in the curls. No ears. Two tiny dot eyes and one sharp nose-brow stroke peek out. Chunky coarse-halftone jumper, rolled neck pulled up to chin; oversized sleeves swallow hands. In leaning pose, show only curls, eyes and TWO tiny mitten tips peeking out of long sleeves over the bottom canvas edge.
+Push the silhouettes further than comfortable. About 25 purposeful strokes per figure. At 1600 px width, main strokes approximately 8–10 px thick. The front and three-quarter pair must clearly depict the SAME character, and leaning versions must match those identities.
+AVOID: stock vector art, corporate flat people, clip art, icon pack, smooth perfect curves, even clean outlines, colouring-book art, round circle faces, realistic proportions, full bodies, intricate hands, ears, buttons, collars, cuffs, shoes, folds, pupils, eyes inside the owner's glasses, ground lines, floors, horizons, scenery, frames, borders, background plates, grey washes, gradients, 3D, shadows, glow, any shading except coarse halftone, crosshatching, pencil/crayon texture, colour, writing, letters, numbers, logos, signs, UI, clutter, sad/alarmed expressions.
+
+VERSION A: emphasize very tall vertical owner silhouette, stubborn square teammate silhouette and huge rounded curl-cloud friend silhouette. Make the three silhouettes immediately distinguishable at thumbnail scale.
+
+CAST VERSION 2
+
+A quick, loose black ink brush-pen sketch on pure white, with thick uneven strokes, dry scratchy edges, short overshoots, gaps where shapes don't close, and trailing unfinished contours. Very few strokes and almost no detail. Solid black only for hair and small dark shapes; fills a little misregistered relative to their contours. Coarse halftone dots only on clothing or skin. Designed exaggerated characters, never realistic anatomy. Witty, calm, a bit quirky. Black and white only. No magenta, decorative marks, ground or background. The supplied drawings are STYLE REFERENCES ONLY; no copies of their faces or poses. Create three distinctive original identities.
+
+Create one unlabelled character reference sheet of THREE new characters, NINE figures total.
+LAYOUT: wide landscape 16:9, target 1600 x 900 pixels. TOP ROW has SIX chest-cropped busts: owner front, owner three-quarter, teammate front, teammate three-quarter, friend front, friend three-quarter. Each character's paired views retain exactly the same identity, face shape, hair, proportions and outfit. Six evenly separated small busts in this precise left-to-right order. Busts end around mid-sheet in a short trailing unfinished chest stroke. BOTTOM ROW has THREE much larger leaning poses in owner, teammate, friend order, only head and hands, peeking over the BOTTOM EDGE of the actual image. The canvas itself crops them at its lower edge; do NOT draw a wall, a horizontal baseline, a frame or any extra line to represent that edge. White separation between every figure and between rows. At least 48 px white above and along sides. Only bottom-row leaning figures may run off the bottom edge. No text or labels anywhere.
+OWNER: very tall narrow egg-shaped head, much taller than wide. A solid-black quiff rears up and forward like a breaking wave, with ONE white slash gap through it. No ears. Nose is one long hooked angular stroke running up into a SINGLE brow. Glasses are two EMPTY circles, slightly different sizes, with NO eyes, pupils or dots inside. Mouth is a short dash. Long thin neck. Narrow shirt uses a FEW loose wobbly stripes that stop short. Coarse halftone patch on ONE cheek spills past jaw. In leaning pose, long chin rests on TWO STACKED MITTEN HANDS, hands drawn with two or three lines each.
+TEAMMATE: blocky almost-square head, flat top, no ears. Round solid-black bun almost as large as head, set off-centre, with ONE pencil stuck through it. Eyes are short dashes, sharp short nose-brow line, small curved mouth. Boxy top with large uneven BLACK DOTS, some spilling past the unfinished outline. Leaning pose has head tilted sideways with one mitten hand hooking over the bottom canvas edge.
+FRIEND: tiny face almost lost in a solid-black cloud of curls TWO TO THREE TIMES THE FACE SIZE, with TWO white gaps in the curls. No ears. Two tiny dot eyes and one sharp nose-brow stroke peek out. Chunky coarse-halftone jumper, rolled neck pulled up to chin; oversized sleeves swallow hands. In leaning pose, show only curls, eyes and TWO tiny mitten tips peeking out of long sleeves over the bottom canvas edge.
+Push the silhouettes further than comfortable. About 25 purposeful strokes per figure. At 1600 px width, main strokes approximately 8–10 px thick. The front and three-quarter pair must clearly depict the SAME character, and leaning versions must match those identities.
+AVOID: stock vector art, corporate flat people, clip art, icon pack, smooth perfect curves, even clean outlines, colouring-book art, round circle faces, realistic proportions, full bodies, intricate hands, ears, buttons, collars, cuffs, shoes, folds, pupils, eyes inside the owner's glasses, ground lines, floors, horizons, scenery, frames, borders, background plates, grey washes, gradients, 3D, shadows, glow, any shading except coarse halftone, crosshatching, pencil/crayon texture, colour, writing, letters, numbers, logos, signs, UI, clutter, sad/alarmed expressions.
+
+VERSION B: push owner quiff into a dramatically long forward breaking wave, teammate bun strongly off-centre and friend's white curl gaps into boldly separated shapes. Preserve all the specified identities and views.
+
+CAST VERSION 3
+
+A quick, loose black ink brush-pen sketch on pure white, with thick uneven strokes, dry scratchy edges, short overshoots, gaps where shapes don't close, and trailing unfinished contours. Very few strokes and almost no detail. Solid black only for hair and small dark shapes; fills a little misregistered relative to their contours. Coarse halftone dots only on clothing or skin. Designed exaggerated characters, never realistic anatomy. Witty, calm, a bit quirky. Black and white only. No magenta, decorative marks, ground or background. The supplied drawings are STYLE REFERENCES ONLY; no copies of their faces or poses. Create three distinctive original identities.
+
+Create one unlabelled character reference sheet of THREE new characters, NINE figures total.
+LAYOUT: wide landscape 16:9, target 1600 x 900 pixels. TOP ROW has SIX chest-cropped busts: owner front, owner three-quarter, teammate front, teammate three-quarter, friend front, friend three-quarter. Each character's paired views retain exactly the same identity, face shape, hair, proportions and outfit. Six evenly separated small busts in this precise left-to-right order. Busts end around mid-sheet in a short trailing unfinished chest stroke. BOTTOM ROW has THREE much larger leaning poses in owner, teammate, friend order, only head and hands, peeking over the BOTTOM EDGE of the actual image. The canvas itself crops them at its lower edge; do NOT draw a wall, a horizontal baseline, a frame or any extra line to represent that edge. White separation between every figure and between rows. At least 48 px white above and along sides. Only bottom-row leaning figures may run off the bottom edge. No text or labels anywhere.
+OWNER: very tall narrow egg-shaped head, much taller than wide. A solid-black quiff rears up and forward like a breaking wave, with ONE white slash gap through it. No ears. Nose is one long hooked angular stroke running up into a SINGLE brow. Glasses are two EMPTY circles, slightly different sizes, with NO eyes, pupils or dots inside. Mouth is a short dash. Long thin neck. Narrow shirt uses a FEW loose wobbly stripes that stop short. Coarse halftone patch on ONE cheek spills past jaw. In leaning pose, long chin rests on TWO STACKED MITTEN HANDS, hands drawn with two or three lines each.
+TEAMMATE: blocky almost-square head, flat top, no ears. Round solid-black bun almost as large as head, set off-centre, with ONE pencil stuck through it. Eyes are short dashes, sharp short nose-brow line, small curved mouth. Boxy top with large uneven BLACK DOTS, some spilling past the unfinished outline. Leaning pose has head tilted sideways with one mitten hand hooking over the bottom canvas edge.
+FRIEND: tiny face almost lost in a solid-black cloud of curls TWO TO THREE TIMES THE FACE SIZE, with TWO white gaps in the curls. No ears. Two tiny dot eyes and one sharp nose-brow stroke peek out. Chunky coarse-halftone jumper, rolled neck pulled up to chin; oversized sleeves swallow hands. In leaning pose, show only curls, eyes and TWO tiny mitten tips peeking out of long sleeves over the bottom canvas edge.
+Push the silhouettes further than comfortable. About 25 purposeful strokes per figure. At 1600 px width, main strokes approximately 8–10 px thick. The front and three-quarter pair must clearly depict the SAME character, and leaning versions must match those identities.
+AVOID: stock vector art, corporate flat people, clip art, icon pack, smooth perfect curves, even clean outlines, colouring-book art, round circle faces, realistic proportions, full bodies, intricate hands, ears, buttons, collars, cuffs, shoes, folds, pupils, eyes inside the owner's glasses, ground lines, floors, horizons, scenery, frames, borders, background plates, grey washes, gradients, 3D, shadows, glow, any shading except coarse halftone, crosshatching, pencil/crayon texture, colour, writing, letters, numbers, logos, signs, UI, clutter, sad/alarmed expressions.
+
+VERSION C: maximum shape contrast and economical unfinished drawing. Owner extremely slender head and neck; teammate squat flat-top square; friend mostly hair with a very small visible face. Keep all three warm and composed.
+
+CAST REFINEMENT
+
+Refine the supplied original character sheet. Preserve the nine-figure layout, ALL THREE character identities, distinctive silhouettes, the two paired top views per character, outfits, loose dry brush-marker style and coarse halftone. Do not add text, marks, props, colour or ground lines.
+
+Correct these specific brief mismatches:
+1. NO EARS on ANY figure. Remove every ear bump or side lobe, especially the teammate's three-quarter face. Head sides are simple uninterrupted egg or block contours.
+2. Owner's leaning pose rests chin on TWO clearly STACKED MITTEN hands, each mitten only two or three curved strokes, no detailed separate fingers. Keep both glasses completely EMPTY in all views.
+3. Friend's leaning pose: only the huge curl cloud, TWO dot eyes, and TWO tiny mitten tips swallowed by halftone sleeves show. Hide the nose, mouth, neck and torso behind those sleeves; reduce the visible face to a very small eye opening.
+4. Canvas layout: landscape 16:9. Reserve at least 48 pixels of white at the TOP and LEFT/RIGHT sides in a 1600 x 900 final sheet, and at least 48 white between all figures. Make the six top busts a little smaller if needed to maintain clear spacing. BOTTOM ROW of three leaning figures must run into and be CUT OFF by the ACTUAL BOTTOM EDGE of the IMAGE. No white strip beneath their hands/sleeves, and no drawn wall, line, border or ledge. The drawing simply continues out of the image bottom. Keep a good white gap between the two rows.
+
+Do not tidy the purposeful unfinished contours. Maintain the owner's elongated wave quiff with one white gap, teammate's large off-centre bun and single pencil, and friend's curl cloud with two white gaps. Black ink on pure white only.
+
+CAST BOTTOM-ROW CORRECTION
+
+Correct ONLY the bottom row of this character sheet. Keep the entire top row unchanged and keep all three bottom-row hairstyles, face silhouettes, clothes and black/white rough ink style unchanged.
+BOTTOM LEFT OWNER: retain his two stacked mitten hands beneath his chin.
+BOTTOM MIDDLE TEAMMATE: remove the stacked hands under the chin. Instead show only ONE simple mitten hand at her lower right, hooked downward over the invisible lower canvas edge; her head stays tilted sideways. No ears.
+BOTTOM RIGHT FRIEND: conceal the hooked nose completely behind the high sleeves. Only TWO dot eyes show in the tiny white opening amid the curls. Keep only TWO tiny rounded mitten tips emerging from the sleeves, each a simple bump with one short crease, no separate fingers.
+Make the three bottom-row cropped figures slightly narrower so there is at least 48 px WHITE SPACE BETWEEN THEM at a 1600 x 900 output. All three still run off the ACTUAL BOTTOM EDGE, with no white below. Do not draw any wall, ground, horizontal line or frame.
+Pure white background, no colour or writing. No new details or props.
+
+PROP VERSION 1
+
+Create original quick loose black ink brush-pen drawings on PURE WHITE. Thick uneven strokes with faint dry scratchy edges, short overshoots and small gaps where outlines fail to close. Very few strokes, about 15 per object. Odd silhouettes, slightly misregistered small black fills. Witty calm quirky objects, not stock icons. Only black and white, no magenta or grey. No labels, writing, numbers, currency symbols, brands or logos anywhere. The supplied files are style references only: create new objects. Use the chosen cast sheet's rough ink language for coherence.
+
+One PROP REFERENCE SHEET with EXACTLY TWELVE different objects in a loose FOUR COLUMN by THREE ROW spread. Unlabelled. Each object has its own slight tilt, approximately same visual size, none touching, ample white separation. Landscape 16:9 image, target 1600 x 900 pixels. Each object around 200–260 pixels across at that size, primary line around 8–10 pixels thick, at least 48 pixels pure white on every side.
+ROW ONE, left to right:
+1. Fat fold-over wallet with flap barely closing over a bulging seam; coarse halftone on wallet SIDE only, spilling a little past its outline.
+2. Thick lumpy BLANK COIN tilted to show its edge, a single rim stroke and tiny dent. Coarse halftone only along coin EDGE, spilling a little. Completely blank coin face.
+3. Key with oversized round bow, off-centre hole, very short slightly bent blade. Simplify teeth.
+4. Squat padlock WIDER THAN TALL with a too-small shackle and a small solid-black keyhole, fill slightly misregistered.
+ROW TWO:
+5. Small safe on stubby feet with round dial MUCH TOO BIG for the little door, only a few ticks around dial. No ground or shadow.
+6. Spiral notebook with crooked coils, ONE sprung loose, ONE curling page corner, blank page.
+7. Rounded-corner soft-cover moleskine-style notebook, elastic band as one thick black stroke, forked ribbon hanging out. No branding.
+8. Narrow receipt slip, zigzag torn bottom, one dog-eared corner, a FEW rows of SHORT DASHES replacing writing. No legible characters.
+ROW THREE:
+9. Small triangular pennant flapping on a short bent stick, blank flag face.
+10. Rubber stamp with fat round knob beside its print: ONE patchy half-inked wavy ring around ONE CHECK MARK. The print is part of this object grouping, not an extra thirteenth object. Checkmark is the ONLY sign anywhere on the sheet.
+11. Round-top mailbox on a short post whose bottom just STOPS IN MID-AIR; little flag down, door hanging open, tiny patient smile consisting of two dots and a curved mouth. Mailbox opening black fill slightly outside its outline. No ground.
+12. Magnifier with oversized lens, ONE glint stroke, short thick handle.
+Only the coin edge and wallet side get halftone. All other interiors remain flat white with a few small black openings. No other shading, no paper grain, no text. Leave most contours loose and not perfectly closed.
+AVOID: icon pack/clip-art uniformity, generic geometrical props, precise clean outlines, smooth perfect curves, realistic rendering, mechanical detail, polished symmetry, frames, boxes, borders, background plates, decorative marks, sparkles, ground lines, floors, horizons, scenery, grey washes, gradients, 3D, shadows, glow, photorealism, crosshatching, pencil/crayon texture, any colour, tints, labels, currency or coin marks, app UI, busy detail, clutter.
+
+VERSION A: emphasize bulky wallet, lumpy coin, tiny padlock shackle and especially stubby safe. Let the outline gaps be visible without making objects unreadable.
+
+PROP VERSION 2
+
+Create original quick loose black ink brush-pen drawings on PURE WHITE. Thick uneven strokes with faint dry scratchy edges, short overshoots and small gaps where outlines fail to close. Very few strokes, about 15 per object. Odd silhouettes, slightly misregistered small black fills. Witty calm quirky objects, not stock icons. Only black and white, no magenta or grey. No labels, writing, numbers, currency symbols, brands or logos anywhere. The supplied files are style references only: create new objects. Use the chosen cast sheet's rough ink language for coherence.
+
+One PROP REFERENCE SHEET with EXACTLY TWELVE different objects in a loose FOUR COLUMN by THREE ROW spread. Unlabelled. Each object has its own slight tilt, approximately same visual size, none touching, ample white separation. Landscape 16:9 image, target 1600 x 900 pixels. Each object around 200–260 pixels across at that size, primary line around 8–10 pixels thick, at least 48 pixels pure white on every side.
+ROW ONE, left to right:
+1. Fat fold-over wallet with flap barely closing over a bulging seam; coarse halftone on wallet SIDE only, spilling a little past its outline.
+2. Thick lumpy BLANK COIN tilted to show its edge, a single rim stroke and tiny dent. Coarse halftone only along coin EDGE, spilling a little. Completely blank coin face.
+3. Key with oversized round bow, off-centre hole, very short slightly bent blade. Simplify teeth.
+4. Squat padlock WIDER THAN TALL with a too-small shackle and a small solid-black keyhole, fill slightly misregistered.
+ROW TWO:
+5. Small safe on stubby feet with round dial MUCH TOO BIG for the little door, only a few ticks around dial. No ground or shadow.
+6. Spiral notebook with crooked coils, ONE sprung loose, ONE curling page corner, blank page.
+7. Rounded-corner soft-cover moleskine-style notebook, elastic band as one thick black stroke, forked ribbon hanging out. No branding.
+8. Narrow receipt slip, zigzag torn bottom, one dog-eared corner, a FEW rows of SHORT DASHES replacing writing. No legible characters.
+ROW THREE:
+9. Small triangular pennant flapping on a short bent stick, blank flag face.
+10. Rubber stamp with fat round knob beside its print: ONE patchy half-inked wavy ring around ONE CHECK MARK. The print is part of this object grouping, not an extra thirteenth object. Checkmark is the ONLY sign anywhere on the sheet.
+11. Round-top mailbox on a short post whose bottom just STOPS IN MID-AIR; little flag down, door hanging open, tiny patient smile consisting of two dots and a curved mouth. Mailbox opening black fill slightly outside its outline. No ground.
+12. Magnifier with oversized lens, ONE glint stroke, short thick handle.
+Only the coin edge and wallet side get halftone. All other interiors remain flat white with a few small black openings. No other shading, no paper grain, no text. Leave most contours loose and not perfectly closed.
+AVOID: icon pack/clip-art uniformity, generic geometrical props, precise clean outlines, smooth perfect curves, realistic rendering, mechanical detail, polished symmetry, frames, boxes, borders, background plates, decorative marks, sparkles, ground lines, floors, horizons, scenery, grey washes, gradients, 3D, shadows, glow, photorealism, crosshatching, pencil/crayon texture, any colour, tints, labels, currency or coin marks, app UI, busy detail, clutter.
+
+VERSION B: push asymmetric hand-drawn silhouettes and deliberately unfinished edges. Make spiral coils extra crooked, closure band slanted, bent key blade noticeably squat, and mailbox face very understated.
+
+PROP VERSION 3
+
+Create original quick loose black ink brush-pen drawings on PURE WHITE. Thick uneven strokes with faint dry scratchy edges, short overshoots and small gaps where outlines fail to close. Very few strokes, about 15 per object. Odd silhouettes, slightly misregistered small black fills. Witty calm quirky objects, not stock icons. Only black and white, no magenta or grey. No labels, writing, numbers, currency symbols, brands or logos anywhere. The supplied files are style references only: create new objects. Use the chosen cast sheet's rough ink language for coherence.
+
+One PROP REFERENCE SHEET with EXACTLY TWELVE different objects in a loose FOUR COLUMN by THREE ROW spread. Unlabelled. Each object has its own slight tilt, approximately same visual size, none touching, ample white separation. Landscape 16:9 image, target 1600 x 900 pixels. Each object around 200–260 pixels across at that size, primary line around 8–10 pixels thick, at least 48 pixels pure white on every side.
+ROW ONE, left to right:
+1. Fat fold-over wallet with flap barely closing over a bulging seam; coarse halftone on wallet SIDE only, spilling a little past its outline.
+2. Thick lumpy BLANK COIN tilted to show its edge, a single rim stroke and tiny dent. Coarse halftone only along coin EDGE, spilling a little. Completely blank coin face.
+3. Key with oversized round bow, off-centre hole, very short slightly bent blade. Simplify teeth.
+4. Squat padlock WIDER THAN TALL with a too-small shackle and a small solid-black keyhole, fill slightly misregistered.
+ROW TWO:
+5. Small safe on stubby feet with round dial MUCH TOO BIG for the little door, only a few ticks around dial. No ground or shadow.
+6. Spiral notebook with crooked coils, ONE sprung loose, ONE curling page corner, blank page.
+7. Rounded-corner soft-cover moleskine-style notebook, elastic band as one thick black stroke, forked ribbon hanging out. No branding.
+8. Narrow receipt slip, zigzag torn bottom, one dog-eared corner, a FEW rows of SHORT DASHES replacing writing. No legible characters.
+ROW THREE:
+9. Small triangular pennant flapping on a short bent stick, blank flag face.
+10. Rubber stamp with fat round knob beside its print: ONE patchy half-inked wavy ring around ONE CHECK MARK. The print is part of this object grouping, not an extra thirteenth object. Checkmark is the ONLY sign anywhere on the sheet.
+11. Round-top mailbox on a short post whose bottom just STOPS IN MID-AIR; little flag down, door hanging open, tiny patient smile consisting of two dots and a curved mouth. Mailbox opening black fill slightly outside its outline. No ground.
+12. Magnifier with oversized lens, ONE glint stroke, short thick handle.
+Only the coin edge and wallet side get halftone. All other interiors remain flat white with a few small black openings. No other shading, no paper grain, no text. Leave most contours loose and not perfectly closed.
+AVOID: icon pack/clip-art uniformity, generic geometrical props, precise clean outlines, smooth perfect curves, realistic rendering, mechanical detail, polished symmetry, frames, boxes, borders, background plates, decorative marks, sparkles, ground lines, floors, horizons, scenery, grey washes, gradients, 3D, shadows, glow, photorealism, crosshatching, pencil/crayon texture, any colour, tints, labels, currency or coin marks, app UI, busy detail, clutter.
+
+VERSION C: use the fewest possible purposeful brush strokes, exaggerate each object's specified oddness, keep slight independent tilts and lots of empty white. No extra contour retracing.

@@ -1,0 +1,8 @@
+Use case: illustration-story.
+An original Guveno illustration: loose editorial brush ink on opaque pure white. Minimal witty designed forms and generous white space. Natural line pressure varies visibly, swelling bold then tapering thin. MOST contours are solid, with only ONE or TWO short dry-brush rough segments in the entire drawing; do NOT put a scratchy filter on every stroke. A few unfinished gaps and overshoots. Offset small solid black fills; coarse halftone dots are the ONLY shading. About 15 strokes per object, 25 per person. Calm, warm, quirky. No ground or backdrop. Avoid vector-smooth stock art, even line weight, realism, detailed anatomy, ears on people, fingers, collars/buttons/cuffs/folds, pupils, gradients, grey washes, shadows, frames, scenery, logos, currency marks, UI screenshot details, busy clutter. Black and white only unless this prompt specifically names one magenta accent.
+
+SUBJECT: Exactly ONE lumpy outline speech bubble with a short bent tail. Its interior is COMPLETELY EMPTY, no face, dots or symbols. No second overlapping bubble.
+
+Format 256 x 256 pixels, generous white margins except expressly named edge entry. Pure white, black ink only, no magenta, text, brands, currency marks, floor or scenery. STRICT SUBJECT: only the stated subjects and exact count, never extras from reference sheet. Natural pressure tapers and bold swells; one or two short rough segments maximum.
+STRICT SCOPE: Draw ONLY the explicit SUBJECT. Do not add people, animal mascots or extra props from the style sheet.
+REFERENCE: attached sheet is style only. No people or cast characters; only the animal, hand or object specified.

@@ -1,0 +1,6 @@
+Use case: precise-object-edit.
+Edit the attached original Guveno drawing. Preserve exact layout, silhouettes, proportions, object count, every black brush contour, pressure variation, gaps, rough edges, existing halftone and opaque pure white background. Do not redraw, clean up, change crop or resize subjects.
+CHANGE: Change ONLY the black check mark inside the stamped ring to flat magenta #EC1C7E, preserving its shape and brush edge. Ring and rubber stamp remain unchanged.
+Exactly one flat magenta #EC1C7E accent, no other colours or tints. No gradient, wash, shadow, glow, added texture, symbols, lettering, extra props or characters. Everything outside this specified accent remains visually unchanged. Preserve original 256 x 256 composition and all original white margins.
+STRICT SCOPE: Draw ONLY the explicit SUBJECT. Do not add people, animal mascots or extra props from the style sheet.
+REFERENCE: attached sheet is style only. No people or cast characters; only the animal, hand or object specified.

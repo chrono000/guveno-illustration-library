@@ -1,0 +1,9 @@
+Use case: illustration-story.
+Asset: Guveno internet money illustration.
+Original Guveno loose brush-ink illustration on opaque pure white. Few strokes, odd proportions, calm quirky wit. Natural pressure variation with thin tapered ends and bold swells. Most edges solid; only ONE or TWO short rough dry segments, no repeated scratchy filter. Occasional gaps and overshoots; black fills slightly off outlines. Coarse halftone only shading. Black and white only. No people, faces, text, letters, numbers, currency symbols, logos, brands, grey fills, gradients, shadows, scenery, ground lines, border or background plate. Only explicitly requested simple marks allowed.
+
+SUBJECT: One squat hand bell with an oversized round black knob. A single fat blank coin hangs like a tag from its handle on a very short string, and exactly TWO short ringing ticks sit beside the bell. Bell tilted a little, empty white body with one tiny halftone patch. No text, currency symbol, hands, people or additional objects.
+
+Format 256 x 256 pixels, square, centred with at least 24 pixels pure white on EVERY side. Line around 5 pixels with clear pressure variation. All subjects fully inside frame. Prop sheet is INK STYLE ONLY, do not copy its other props. Exact specified object count.
+STRICT SCOPE: Draw ONLY the explicit SUBJECT. Do not add people, animal mascots or extra props from the style sheet.
+REFERENCE: attached sheet is style only. No people or cast characters; only the animal, hand or object specified.

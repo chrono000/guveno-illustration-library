@@ -1,0 +1,9 @@
+Use case: illustration-story.
+Asset: Guveno banking and exchange illustration.
+Original Guveno quick loose brush-ink illustration on opaque pure white. Odd oversized details, few strokes, calm witty feel. Natural pen pressure: bold swells taper to thin ends. Most edges solid, only ONE or TWO short segments rough or dry; no repeated scratchy filter. Occasional gaps and overshoots, black fills slightly off outline. Sparse coarse halftone is only shading. About 15 strokes per object. Black and white only. No text, letters, numbers, currency signs, brands, logos, gradients, grey fills, shadows, scenery, ground line, borders or background plates. No people. Only the explicit pig has a face. Explicit arrows and check permitted.
+
+SUBJECT: Exactly TWO blank banknotes at opposing tilts, left note short and squat with one empty oval, right note longer and narrower with one empty rectangular inset. Exactly TWO loose curved arrows run in opposite directions between them, one above and one below. Notes deliberately different shapes. No coins, text, currency signs or extra objects.
+
+Format 600 x 300 pixels, low wide 2:1 landscape, centred with at least 32 pixels of pure white on EVERY side. Line around 6 pixels with clear thin-to-bold variation. All objects fully inside frame. Attached prop sheet provides INK STYLE ONLY; do not copy its arrangement or additional props. Exact stated object count.
+STRICT SCOPE: Draw ONLY the explicit SUBJECT. Do not add people, animal mascots or extra props from the style sheet.
+REFERENCE: attached sheet is style only. No people or cast characters; only the animal, hand or object specified.

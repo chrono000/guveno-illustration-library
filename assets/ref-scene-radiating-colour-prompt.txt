@@ -1,0 +1,7 @@
+Use case: precise-object-edit.
+Edit target: attached original Guveno illustration. Create a separate colour variant.
+CHANGE: Fill ONLY the FRONT-RIGHT visible face of the CENTRAL CUBE flat magenta #EC1C7E. Its top and front-left faces remain WHITE; preserve black contour and the halftone on front-left face. All EIGHT surrounding shapes, all their connectors and their halftone remain BLACK AND WHITE exactly as they are. No colour on the surrounding shapes.
+INVARIANTS: Keep the exact original subjects, counts, positions, proportions, composition, white margins and pure white background. Preserve original black brush strokes with thin-to-bold pressure variation, isolated rough segments, gaps and halftone texture. One flat magenta #EC1C7E focal accent ONLY as specified. No redraw, added objects, words, logos, gradients, grey wash, shadows or extra colour.
+Format: 960 x 600 landscape.
+STRICT SCOPE: Draw ONLY the explicit SUBJECT. Do not add people, animal mascots or extra props from the style sheet.
+REFERENCE: attached sheet is style only. No people or cast characters; only the animal, hand or object specified.

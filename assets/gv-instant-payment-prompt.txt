@@ -1,0 +1,9 @@
+Use case: illustration-story.
+Asset: Guveno internet money illustration.
+Original Guveno loose brush-ink illustration on opaque pure white. Few strokes, odd proportions, calm quirky wit. Natural pressure variation with thin tapered ends and bold swells. Most edges solid; only ONE or TWO short rough dry segments, no repeated scratchy filter. Occasional gaps and overshoots; black fills slightly off outlines. Coarse halftone only shading. Black and white only. No people, faces, text, letters, numbers, currency symbols, logos, brands, grey fills, gradients, shadows, scenery, ground lines, border or background plate. Only explicitly requested simple marks allowed.
+
+SUBJECT: One thick blank coin is tipped diagonally, with exactly ONE oversized crooked black lightning bolt trailing behind it and TWO short motion dashes. Coin face blank, one small coarse halftone patch on edge. Bolt is abstract, not a brand logo. No arrow, cloud, text, extra coins or person.
+
+Format 256 x 256 pixels, square, centred with at least 24 pixels pure white on EVERY side. Line around 5 pixels with clear pressure variation. All subjects fully inside frame. Prop sheet is INK STYLE ONLY, do not copy its other props. Exact specified object count.
+STRICT SCOPE: Draw ONLY the explicit SUBJECT. Do not add people, animal mascots or extra props from the style sheet.
+REFERENCE: attached sheet is style only. No people or cast characters; only the animal, hand or object specified.

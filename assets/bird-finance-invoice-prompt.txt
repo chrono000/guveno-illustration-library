@@ -1,0 +1,8 @@
+Use case: illustration-story.
+Original Guveno bird mascot: one lumpy pear-shaped WHITE body, slender curved neck, tiny dot eye, sharp solid black wedge beak, black tail flick and two single-stroke legs. Coarse halftone patch only on lower breast. One simple two-stroke wing where needed; NO human hands, hair, glasses or clothes. Reference bird supplies character only. Loose brush ink on opaque pure white: natural thin-to-bold pressure, mostly solid lines, only one or two short rough segments, occasional gaps/overshoots. Very few strokes and oversized quirky props. One specified small flat magenta #EC1C7E accent. No other colour, grey fills, gradients, shadows, floor, scenery, borders, text, numbers, currency marks or logos.
+
+SUBJECT: The bird holds ONE short dog-eared invoice with two pairs of dash rows under a simple wing. ONE large check mark on invoice is flat magenta #EC1C7E; a tiny four-point black sparkle beside it. No star sticker, zigzag receipt edge, stamp, extra papers or coins.
+
+Format 400 x 400 pixels, entire bird and all props centred inside frame, at least 32 pixels white on every side. No additional characters or props. About 5 pixel line weight varying naturally. Attached reference is character and ink style only, draw ONLY this new activity.
+STRICT SCOPE: Draw ONLY the explicit SUBJECT. Do not add people, animal mascots or extra props from the style sheet.
+REFERENCE: attached sheet is style only. No people or cast characters; only the animal, hand or object specified.

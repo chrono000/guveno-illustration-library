@@ -1,0 +1,9 @@
+Use case: illustration-story.
+Asset: Original Guveno self-custody software illustration.
+Original Guveno loose brush-ink drawing on opaque PURE WHITE. Sparse odd designed shapes, very few strokes, generous white space. Natural thin-to-bold pressure variation and tapered strokes. Most contours solid; ONLY one or two short rough/dry segments, never uniform scratchiness. Occasional gaps, overshoots and slightly offset black fills. Coarse halftone only when explicitly requested. ONE small flat magenta #EC1C7E accent exactly as named. No grey, gradients, shadows, realistic rendering, stock vectors, clean even lines, scenery, floor, ground dashes, background plate or decorative frame. No readable text, letters, numbers, real seed phrases, currency symbols, brand logos, app screens or UI. Keep figures cropped; no detailed fingers, ears, buttons, collars or clothing folds.
+
+SUBJECT: Exactly ONE owner bust enters from right, cropped at shoulder: tall narrow egg head, wave quiff with white gap, EMPTY unequal circular glasses, hooked nose-brow, sparse shirt stripes. One mitten holds a huge magnifier over ONE short dog-eared receipt at centre; the other holds a pen away from the paper, not touching it yet. Receipt has exactly TWO abstract dash rows; magnifier enlarges ONE small flat MAGENTA dot on receipt. Calm attentive mouth. No signature, words, numbers, other characters, ground or screen.
+
+Format 960 x 600 pixels, landscape, at least 40 pixels pure white on all sides, except explicitly specified shoulder crop. Line 8 pixels nominal but varies naturally. Attached sheet is STYLE ONLY; use only the subject and exact counts specified. This is a visual metaphor, not a diagram of a specific cryptographic implementation.
+STRICT SCOPE: Draw ONLY the explicit SUBJECT. Do not add people, animal mascots or extra props from the style sheet.
+REFERENCE: attached sheet is style only. Choose ONLY the character count explicitly specified.

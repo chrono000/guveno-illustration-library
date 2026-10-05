@@ -1,0 +1,8 @@
+Use case: illustration-story.
+An original Guveno illustration: loose editorial brush ink on opaque pure white. Minimal witty designed forms and generous white space. Natural line pressure varies visibly, swelling bold then tapering thin. MOST contours are solid, with only ONE or TWO short dry-brush rough segments in the entire drawing; do NOT put a scratchy filter on every stroke. A few unfinished gaps and overshoots. Offset small solid black fills; coarse halftone dots are the ONLY shading. About 15 strokes per object, 25 per person. Calm, warm, quirky. No ground or backdrop. Avoid vector-smooth stock art, even line weight, realism, detailed anatomy, ears on people, fingers, collars/buttons/cuffs/folds, pupils, gradients, grey washes, shadows, frames, scenery, logos, currency marks, UI screenshot details, busy clutter. Black and white only unless this prompt specifically names one magenta accent.
+
+SUBJECT: One pear-bodied cat sitting upright, tiny head tipped up, two pointed ears, one nose dot, a long black tail curled beside it. Minimal tucked paws. No ground.
+
+Format 960 x 600 pixels; generous pure white margins on all sides, complete subject contained inside canvas unless entry from an edge is explicitly specified. Black ink only, no magenta. No readable text except a functional glyph or check explicitly requested. Reference is style only; NEVER add the whole cast. Very few strokes; pressure varies, only one or two short rough edges.
+STRICT SCOPE: Draw ONLY the explicit SUBJECT. Do not add people, animal mascots or extra props from the style sheet.
+REFERENCE: attached sheet is style only. No people or cast characters; only the animal, hand or object specified.

@@ -1,0 +1,9 @@
+Use case: illustration-story.
+Asset: Original Guveno self-custody software illustration.
+Original Guveno loose brush-ink drawing on opaque PURE WHITE. Sparse odd designed shapes, very few strokes, generous white space. Natural thin-to-bold pressure variation and tapered strokes. Most contours solid; ONLY one or two short rough/dry segments, never uniform scratchiness. Occasional gaps, overshoots and slightly offset black fills. Coarse halftone only when explicitly requested. ONE small flat magenta #EC1C7E accent exactly as named. No grey, gradients, shadows, realistic rendering, stock vectors, clean even lines, scenery, floor, ground dashes, background plate or decorative frame. No readable text, letters, numbers, real seed phrases, currency symbols, brand logos, app screens or UI. Keep figures cropped; no detailed fingers, ears, buttons, collars or clothing folds.
+
+SUBJECT: No person: ONE folded paper airplane with dog-eared receipt-like tail carries ONE small BLACK check on its broad white wing. It flies from left toward exactly THREE small linked lumpy cube blocks at right. ONE short dotted trajectory behind plane and TWO motion ticks. Only the small airplane tail fold is flat MAGENTA. Blocks have blank faces, two short connectors, no check marks. No extra aircraft, antenna, people, logos, currency marks or text.
+
+Format 600 x 300 pixels, landscape, at least 40 pixels pure white on all sides, except explicitly specified shoulder crop. Line 6 pixels nominal but varies naturally. Attached sheet is STYLE ONLY; use only the subject and exact counts specified. This is a visual metaphor, not a diagram of a specific cryptographic implementation.
+STRICT SCOPE: Draw ONLY the explicit SUBJECT. Do not add people, animal mascots or extra props from the style sheet.
+REFERENCE: attached sheet is style only. No people or cast characters; only the animal, hand or object specified.

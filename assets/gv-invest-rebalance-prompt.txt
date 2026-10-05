@@ -1,0 +1,9 @@
+Use case: illustration-story.
+Asset: Guveno investing illustration.
+Original Guveno loose black brush ink on opaque PURE WHITE. Witty odd proportions and sparse marks; natural pressure varies thin to bold, tapered strokes, most contours solid. Only one or two small dry rough segments, never a scratch filter. Occasional gaps and overshoots, slightly offset black fills. Coarse halftone only where named. ONE small flat magenta #EC1C7E accent exactly as specified. No stock vector look, clean even outlines, gradients, grey wash, shadows, scenery, floor, ground dashes, border, background plate, real brand, currency sign, readable text, letters, numbers or app UI. Few strokes, simplified mitten hands, no ears, buttons or clothing folds. These are investing concepts, not predictions or promises of returns.
+
+SUBJECT: No person: exactly TWO squat open portfolio trays float side by side. Left holds exactly THREE blank coins overlapping loosely, right holds exactly ONE blank coin. ONE additional blank coin is moving between them on ONE short curved BLACK arrow from left toward right. ONLY moving coin face flat MAGENTA. No scales, bowls, numbers, extra coins or people. Keep coin count FIVE total and trays TWO.
+
+Format 600 x 300 pixels, landscape, at least 40 pixels white on every side except explicit shoulder crop. All main objects and face entirely visible. Reference is ink style/cast ONLY. Exact subject counts, no other sheet objects. Line nominal 6 pixels with natural pressure variation.
+STRICT SCOPE: Draw ONLY the explicit SUBJECT. Do not add people, animal mascots or extra props from the style sheet.
+REFERENCE: attached sheet is style only. No people or cast characters; only the animal, hand or object specified.

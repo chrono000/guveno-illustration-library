@@ -1,0 +1,9 @@
+Use case: illustration-story.
+Asset: Guveno value-transfer library illustration.
+Original Guveno loose brush-ink illustration on opaque pure white. Few bold strokes, odd proportions, friendly quiet wit. Strong natural pressure variation: thin tapered ends and thicker swells, mostly solid smooth ink with only ONE or TWO short rough dry segments, never a scratchy filter on every line. Occasional gaps and overshoots; black fills slightly off their outlines. Sparse coarse halftone only. About 15 strokes per object. Black and white only. No people, faces, text, letters, numbers, currency symbols, brands, logos, gradients, grey fills, shadows, scenery, ground line, border or background plate. Functional arrows and explicitly requested check allowed.
+
+SUBJECT: Two separate crooked clusters of exactly TWO linked cube blocks each, one left one right. A tiny arched footbridge spans the white gap between clusters, one bent rail and two deck strokes. ONE thick blank coin is halfway across the bridge with two short motion dashes. Bridge floats in white; no water, islands, scenery, ground or extra cubes.
+
+Format 600 x 300 pixels, low wide 2:1 landscape, centred with at least 32 pixels of pure white on EVERY side. Line about 6 pixels thick with clear pressure variation. All subjects fit fully inside frame. Attached prop sheet supplies INK STYLE ONLY, do not copy its layout or additional objects. Draw only the exact stated subject and object count.
+STRICT SCOPE: Draw ONLY the explicit SUBJECT. Do not add people, animal mascots or extra props from the style sheet.
+REFERENCE: attached sheet is style only. No people or cast characters; only the animal, hand or object specified.

@@ -1,0 +1,7 @@
+Use case: precise-object-edit.
+Edit the attached original Guveno illustration. Preserve its exact object count, composition, shapes, framing, pure white background, black brush contours, natural pressure changes, ink gaps and existing halftone. Do not redraw, smooth or clean up the drawing.
+CHANGE: Fill ONLY the white face of the frontmost loose coin flat magenta #EC1C7E. Wrapper, second coin and both coin edges stay black and white.
+One colour accent only, flat #EC1C7E with no tints, gradients, shadows or texture added. No new marks, words, symbols, logos, objects or people. All pixels outside the specified accent remain visually unchanged. Save a sibling colour variant; original black-and-white artwork is retained.
+Export composition 256 x 256 pixels, keeping original white margins.
+STRICT SCOPE: Draw ONLY the explicit SUBJECT. Do not add people, animal mascots or extra props from the style sheet.
+REFERENCE: attached sheet is style only. No people or cast characters; only the animal, hand or object specified.

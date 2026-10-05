@@ -1,0 +1,10 @@
+An original Guveno illustration: loose editorial brush ink on opaque pure white. Minimal witty designed forms and generous white space. Natural line pressure varies visibly, swelling bold then tapering thin. MOST contours are solid, with only ONE or TWO short dry-brush rough segments in the entire drawing; do NOT put a scratchy filter on every stroke. A few unfinished gaps and overshoots. Offset small solid black fills; coarse halftone dots are the ONLY shading. About 15 strokes per object, 25 per person. Calm, warm, quirky. No ground or backdrop. Avoid vector-smooth stock art, even line weight, realism, detailed anatomy, ears on people, fingers, collars/buttons/cuffs/folds, pupils, gradients, grey washes, shadows, frames, scenery, logos, currency marks, UI screenshot details, busy clutter. Black and white only unless this prompt specifically names one magenta accent.
+
+SUBJECT: a small airplane in profile. Give the main prop an odd proportion or slight imperfection, using very few marks. No text, letters, numbers or writing except short abstract receipt/document dashes.
+
+Format 256 Ã— 256 pixels, square, centered compact composition, ample white margin, no border. Keep the entire subject within the canvas.
+STRICT SUBJECT SCOPE: draw ONLY the subjects and number of characters explicitly described in SUBJECT. A reference sheet provides style, never additional props, animals or people. Do not add the rest of the cast or a decorative bird. No extra object or character.
+CHARACTER COUNT: 
+No face, eyes, arms, hands or legs. Do not personify this object or glyph.
+SUBJECT NAME: Airplane.
+REFERENCE: attached sheet is style only. No people or cast characters; only the animal, hand or object specified.

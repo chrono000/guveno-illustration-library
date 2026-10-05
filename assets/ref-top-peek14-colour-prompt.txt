@@ -1,0 +1,6 @@
+Use case: precise-object-edit.
+Edit the attached original Guveno drawing. Preserve every unmentioned subject, composition, contours, pressure variation, ink gaps, rough edges, halftone and pure white background. No extra props, text, logos, gradients or shadows.
+CHANGE: Change ONLY the solid black CIRCLE inside the framed artwork to flat magenta #EC1C7E, preserving its existing outline and shape. Keep the triangle HALFTONE and lower semicircle BLACK. Owner, teammate, hanging frame, clothing and faces unchanged.
+Keep 600 x 400 composition and existing white margins. Only flat magenta #EC1C7E where specified; all other ink black.
+STRICT SCOPE: Draw ONLY the explicit SUBJECT. Do not add people, animal mascots or extra props from the style sheet.
+REFERENCE: attached sheet is style only. Choose ONLY the character count explicitly specified.

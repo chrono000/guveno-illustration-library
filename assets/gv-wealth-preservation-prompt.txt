@@ -1,0 +1,9 @@
+Use case: illustration-story.
+Asset: Guveno client wealth and investment-management illustration.
+Original Guveno loose brush ink on opaque pure white. Witty spare designed proportions, few strokes, natural thin-to-bold pressure variation with tapering. Most edges solid, ONLY one or two short dry rough segments, never a scratch filter. Occasional gaps, overshoots, slightly offset black fills. Coarse halftone only where named. ONE small flat MAGENTA #EC1C7E accent exactly specified. No stock vector, even perfect outlines, gradients, grey wash, shadows, ground, scenery, border, background plate, app UI, words, numbers, currency marks or real brands. Simple mitten hands, no realistic fingers, ears, clothing detail or full bodies. Conceptual imagery, not guarantees of profits, capital safety or product feature support.
+
+SUBJECT: No person: ONE thick blank coin is enclosed beneath ONE small crooked glass bell cloche with a round knob and TWO short glass glints. A tiny shield hangs from the knob on a short loop; shield centre filled flat MAGENTA, black contour. Coin face white, one halftone coin-edge patch. Cloche bottom rim only, no table, floor, lock, arrow, extra coins or text.
+
+Format 256 x 256 pixels, square. At least 24 pixels white on all sides except explicit entering sleeve/shoulder. Entire faces and main objects visible. Line nominal 5 pixels with pressure variation. Reference is CAST/INK STYLE ONLY, no unrelated objects or added characters.
+STRICT SCOPE: Draw ONLY the explicit SUBJECT. Do not add people, animal mascots or extra props from the style sheet.
+REFERENCE: attached sheet is style only. No people or cast characters; only the animal, hand or object specified.

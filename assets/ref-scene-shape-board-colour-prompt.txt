@@ -1,0 +1,6 @@
+Use case: precise-object-edit.
+Edit the attached original Guveno illustration. Preserve exact composition, character, proportions, every black line, natural pressure variation, ink gaps, halftone and pure white background. Do not redraw or smooth.
+CHANGE: Colour ONLY the black triangle touched by the mitten flat magenta #EC1C7E, retaining its black contour and the white hand. Circle, square, diamond halftone, owner and board remain unchanged.
+Only flat #EC1C7E colour, no other colour, tint, gradient, shadow, texture, text, props or characters. Everything outside specified accent remains visually unchanged. Preserve 960 x 600 landscape composition and original margins.
+STRICT SCOPE: Draw ONLY the explicit SUBJECT. Do not add people, animal mascots or extra props from the style sheet.
+REFERENCE: attached sheet is style only. Choose ONLY the character count explicitly specified.

@@ -1,0 +1,13 @@
+Standing direction for future Guveno illustrations: use natural pressure variation with thinning/tapered and fuller/bolder segments. Most strokes are solid with slight hand wobble. Restrict dry scratchiness to one or two localized corners/edges/segments per illustration; no uniformly distressed brush or all-over texture filter. Retain sparse intentional open gaps, quirky silhouettes and coarse halftone where specified.
+
+Latest illustration generated with the built-in image generation tool. Base export: 960 x 600. 2x export: 1920 x 1200.
+
+Exact edit prompt:
+
+Edit this Guveno illustration ONLY to improve the ink line quality. Preserve the exact composition, quirky pear-shaped bird, absurd periscope neck, dot eye and wedge beak, two spark ticks, breast halftone spill, black tail, two stick legs, closed fold-over wallet, small scribbled start circle and empty dotted route ending on the right. No new objects or details. Black and white on pure white only.
+
+The current drawing has scratchy dry-brush marks along nearly EVERY contour. Remove that repetitive all-over roughness. Most contour strokes should be simple, confidently inked and largely solid, with a subtle handmade wobble. Reserve dry scratchiness for ONLY TWO localized areas: a short segment of the bird's back near its tail, and one lower corner of the wallet. Do not apply a texture filter or identical brush distress to every stroke.
+
+Instead of constant line weight, introduce natural brush-pen PRESSURE VARIATION: curves gently swell into bold black strokes and taper to slender ends. Bird neck outline can transition from fine near the head to fuller at its bend and thin again along a long stretch. Wallet flap edge can be bolder in the middle and taper at the corners. Keep the short legs and a few small marks lighter than the main body contours. The variation should feel drawn in a few continuous confident gestures, not striped or mechanically alternating. Preserve a few intentional open contour gaps, without scratchy parallel retracing.
+
+Keep all shapes flat, interiors white, no shading except the existing halftone breast patch. Preserve the generous margins and landscape 16:10 layout. Final target 960 x 600. Avoid perfect vector symmetry, constant uniform line width, global grain, jagged distressed outlines, contour duplication, hatching, grey, colour, shadows, gradients, ground lines, labels, text, logos or currency marks.

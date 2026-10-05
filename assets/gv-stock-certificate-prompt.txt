@@ -1,0 +1,9 @@
+Use case: illustration-story.
+Asset: Guveno trading and market illustration.
+Original Guveno loose brush-ink drawing on opaque pure white, spare witty shapes and ample white space. Natural pressure variation: bold swells and thin tapered stretches. Most edges solid; only one or two short dry rough segments, never a scratchy filter. Occasional gaps, slight overshoots and offset black fills. Coarse halftone only when specifically named. Very few strokes; irregular designed proportions. Black ink plus ONE small specified flat magenta #EC1C7E accent, no other colour. No readable text, numbers, currency marks, brands, logos, gradients, grey wash, shadows, scenery, frames, background plates, app screens or UI. No people. Animals only when specified. Charts are expressive conceptual ink drawings, not actual financial data.
+
+SUBJECT: ONE squat dog-eared share certificate with a spare wobbly double outline, exactly TWO pairs of abstract dash rows and one scalloped seal at lower corner. Seal has ONE short forked ribbon filled flat magenta #EC1C7E. Certificate blank beyond dash rows. No signature, letters, numbers, currency symbols, logo or extra props.
+
+Format 256 x 256 pixels, square, centred with at least 24 pixels white on EVERY side. Line around 5 pixels varying thin to bold. Keep all explicit subjects fully inside canvas. Attached prop sheet is INK STYLE ONLY, never add its other objects. Exact specified count. No ground unless a short chart baseline is explicitly requested.
+STRICT SCOPE: Draw ONLY the explicit SUBJECT. Do not add people, animal mascots or extra props from the style sheet.
+REFERENCE: attached sheet is style only. No people or cast characters; only the animal, hand or object specified.
